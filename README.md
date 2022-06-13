@@ -1,1 +1,1 @@
-# twitter-api-graphql
+# Twitter API with GraphQL
